@@ -94,7 +94,65 @@ Yisroel Mirsky. NDSS 2018. [[code]](https://github.com/ymirsky/Kitsune-py)
 - [NetVigil: Robust and Low-Cost Anomaly Detection for East-West Data Center Security](https://www.usenix.org/system/files/nsdi24-hsieh.pdf).  Kevin Hsieh. NDSI 2024. [[code]](https://github.com/microsoft/Yatesbury) [[video]](https://www.youtube.com/watch?v=gj_jpAWd-xY)
 
 ## Traffic Concept Drift
+
 - [Continual Learning with Strategic Selection and Forgetting for Network Intrusion Detection](http://arxiv.org/abs/2412.16264). Xinchen Zhang. INFOCOM 2025. [[code]](https://github.com/xinchen930/SSF-StrategicSelection-and-Forgetting)
+
+## OOD Malicious Traffic Detection
+
+- [Detection of Unknown Attacks Through Encrypted Traffic A Gaussian Prototype-Aided Variational Autoencoder Framework](https://ieeexplore.ieee.org/document/11173696). Qianwei Meng. TIFS 2025. [[code]](https://github.com/niebikong/Open-Detect)
+
+## Real-time Malicious Traffic Detection
+
+- [Proteus: A Difficulty-aware Deep Learning  Framework for Real-time Malicious Traffic  Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10858520). Chupeng Cui. ICNP 2024.
+- [Realtime Robust Malicious Traffic Detection via Frequency Domain Analysis](https://arxiv.org/pdf/2106.14707). Chuanpu Fu. CCS 2021. [[code]](https://github.com/fuchuanpu/Whisper) [[video]](https://dl.acm.org/doi/10.1145/3460120.3484585)
+
+# Encrypted Traffic Classification
+
+## Overview
+
+- [SoK: Decoding the Enigma of Encrypted Network Traffic Classifiers](https://ieeexplore.ieee.org/document/11023502/). Nimesha Wickramasinghe. S&P 2025. 
+
+## Pre-training/LLMs
+
+- [The Sweet Danger of Sugar: Debunking Representation Learning for Encrypted Traffic Classification](http://arxiv.org/abs/2507.16438). Yuqi Zhao. SIGCOMM 2025. [[code]](https://github.com/SmartData- Polito/Debunk_Traffic_Representation)
+- [MM4flow: A Pre-trained Multi-modal Model for Versatile Network Traffic Analysis](). Luming Yang. CCS 2025. [[code]](https://github.com/Shangshu-LAB/MM4flow)
+- [PACKETCLIP: Multi-Modal Embedding of Network Traffic  and Language for Cybersecurity Reasoning](http://arxiv.org/abs/2503.03747). Ryozo Masukawa. Arxiv 2025.5.
+- [netFound: Foundation Model for Network Security](https://arxiv.org/pdf/2310.17025). Satyandra Guthula. Arxiv 2025.1. [[code]](https://github.com/SNL-UCSB/netFound)
+- [MERLOT: A Distilled LLM-based Mixture-of-Experts Framework for Scalable Encrypted Traffic Classification](http://arxiv.org/abs/2411.13004). Yuxuan Chen. Arxiv 2025.9.
+- [Language of Network: A Generative Pre-trained Model for Encrypted Traffic Comprehension](http://arxiv.org/abs/2505.19482). Di Zhao. Arxiv 2025.9. [[code]]()
+- [TrafficFormer: An Efficient Pre-trained Model for Traffic Data](https://ieeexplore.ieee.org/document/11023272/). Guangmeng Zhou. S&P 2025. [[code]](https://github.com/IDP-code/TrafficFormer)
+- [NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba](http://arxiv.org/abs/2405.11449). Tongze Wang. ICNP 2024. [[code]](https://github.com/wangtz19/NetMamba)
+- [Ptu: Pre-Trained Model for Network Traffic Understanding](https://ieeexplore.ieee.org/document/10858503/). Lingfeng Peng. ICNP 2024. 
+- [ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification](https://dl.acm.org/doi/10.1145/3485447.3512217). Xinjie Lin. WWW 2022. [[code]](https://github.com/linwhitehat/ET-BERT)
+- [PERT: Payload Encoding Representation from Transformer for Encrypted Traffic Classification](https://ieeexplore.ieee.org/document/9303204/). Hongye He. ITU 2020. 
+
+## GNN-based Classification
+
+- [FlowMiner: A Powerful Model Based on Flow  Correlation Mining for Encrypted Traffic  Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11044724). Hongbo Xu. INFOCOM 2025. 
+- [TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Trafic Classification](https://dl.acm.org/doi/10.1145/3543507.3583227). Haozhen Zhang. WWW 2023. [[code]](https://github.com/ViktorAxelsen/TFE-GNN)
+
+## ML-based Classification(packet-based)
+
+- [Packet Representation Learning for Tra ic Classification](https://dl.acm.org/doi/10.1145/3534678.3539085). Xuying Meng. KDD 2022. [[code]](https://github.com/ict-net/PacRep)
+
+## ML-based Classification(flow-based)
+
+- [FS-Net: A Flow Sequence Network For Encrypted  Traffic Classification](https://ieeexplore.ieee.org/document/8737507/). Chang liu. INFOCOM 2019. [[code]](https://github.com/WSPTTH/FS-Net)
+- [MT-FlowFormer: A Semi-Supervised Flow Transformer for Encrypted Traffic Classification](https://dl.acm.org/doi/10.1145/3534678.3539314). Ruijie Zhao. KDD 2022. 
+
+## Class Imbalance Classification
+
+- [Listen to minority: Encrypted traffic classification for class imbalance with contrastive pre-training](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10287449). Xiang Li. SECON 2023.
+
+## Diverse Network Environment
+
+- [Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation](https://dl.acm.org/doi/10.1145/3603165.3607437). Renjie Xie. USENIX Security 2023. [[code]](https://github.com/sunskyXX/Rosetta.git)
+
+# In-Network Traffic Analysis
+
+- [SentinelX: A Lightweight Malicious Traffic  Detection System Based on Programmable Switches](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11044759). Zutao Zhang. INFOCOM 2025. 
+
+
 <!--
 
 # Ethereum
