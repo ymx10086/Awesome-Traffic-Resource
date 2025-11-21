@@ -81,8 +81,15 @@ This is a current list of resources related to the research and development of M
 - [DrLLM: Prompt-Enhanced Distributed Denial-of-Service Resistance Method with Large Language Models](https://arxiv.org/pdf/2409.10561). Zhenyu Yin. [[code]](https://github.com/liuup/DrLLM)
 - [ShieldGPT: An LLM-based Framework for DDoS Mitigation](https://dl.acm.org/doi/epdf/10.1145/3663408.3663424). Tongze Wang. APNet 2024. [[code]](https://github.com/wangtz19/ShieldGPT)
 
+## Malicious Traffic Detection with Pre-training/LLMS
+
+- [Training with Only 1.0 ‰ Samples: Malicious Traffic Detection via Cross-Modality Feature Fusion](). Chuanpu Fu. CCS 2025. [[code]](https://github.com/fuchuanpu/TFusion)
+- [Flow-MAE: Leveraging Masked AutoEncoder for Accurate, Efficient and Robust Malicious Traffic Classification](https://dl.acm.org/doi/pdf/10.1145/3607199.3607206). Zijun Hang. RAID 2023. [[code]](https://github.com/NLear/Flow-MAE)
+- [A Method for Network Intrusion Detection Using  Flow Sequence and BERT Framework](https://ieeexplore.ieee.org/document/10279335/). Loc Gia Nguyen. ICC 2023. 
+
 ## Malicious Traffic with ML-Based Manners
 
+- [Feature Selection for Network Intrusion Detection](https://dl.acm.org/doi/10.1145/3690624.3709339). Charles Westphal. KDD 2025. [[code]](https://github.com/c-s-westphal/FSNID)
 - [Realtime Robust Malicious Traffic Detection via Frequency Domain Analysis](https://arxiv.org/pdf/2106.14707). Chuanpu Fu. CCS 2021. [[code]](https://github.com/fuchuanpu/Whisper) [[video]](https://dl.acm.org/doi/10.1145/3460120.3484585)
 - [Detecting Unknown Encrypted Malicious Traffic in Real Time via Flow Interaction Graph Analysis](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s80_paper.pdf). Chuanpu Fu. NDSS 2023. [[code]](https://github.com/fuchuanpu/HyperVision) [[video]](https://www.youtube.com/watch?v=FuKrs4dt6aw) [[slide]](https://www.ndss-symposium.org/wp-content/uploads/2024/10/2023-80-slides.pdf)
 - [Trident: A Universal Framework for Fine-Grained and Class-Incremental Unknown Traffic Detection](https://dl.acm.org/doi/pdf/10.1145/3589334.3645407). Ziming Zhao. WWW 2024. [[code]](https://github.com/Secbrain/Trident) [[video]](https://dl.acm.org/doi/abs/10.1145/3589334.3645407?download=true)
@@ -117,17 +124,22 @@ Yisroel Mirsky. NDSS 2018. [[code]](https://github.com/ymirsky/Kitsune-py)
 - [The Sweet Danger of Sugar: Debunking Representation Learning for Encrypted Traffic Classification](http://arxiv.org/abs/2507.16438). Yuqi Zhao. SIGCOMM 2025. [[code]](https://github.com/SmartData- Polito/Debunk_Traffic_Representation)
 - [MM4flow: A Pre-trained Multi-modal Model for Versatile Network Traffic Analysis](). Luming Yang. CCS 2025. [[code]](https://github.com/Shangshu-LAB/MM4flow)
 - [PACKETCLIP: Multi-Modal Embedding of Network Traffic  and Language for Cybersecurity Reasoning](http://arxiv.org/abs/2503.03747). Ryozo Masukawa. Arxiv 2025.5.
+- [TrafficLLM: Enhancing Large Language Models for Network Traffic  Analysis with Generic Traffic Representation](https://arxiv.org/pdf/2504.04222). Tianyu Cui. Arxiv 2025.3.
 - [netFound: Foundation Model for Network Security](https://arxiv.org/pdf/2310.17025). Satyandra Guthula. Arxiv 2025.1. [[code]](https://github.com/SNL-UCSB/netFound)
 - [MERLOT: A Distilled LLM-based Mixture-of-Experts Framework for Scalable Encrypted Traffic Classification](http://arxiv.org/abs/2411.13004). Yuxuan Chen. Arxiv 2025.9.
 - [Language of Network: A Generative Pre-trained Model for Encrypted Traffic Comprehension](http://arxiv.org/abs/2505.19482). Di Zhao. Arxiv 2025.9. [[code]]()
 - [TrafficFormer: An Efficient Pre-trained Model for Traffic Data](https://ieeexplore.ieee.org/document/11023272/). Guangmeng Zhou. S&P 2025. [[code]](https://github.com/IDP-code/TrafficFormer)
+- [Bottom Aggregating, Top Separating: An  Aggregator and Separator Network for  Encrypted Traffic Understanding](https://ieeexplore.ieee.org/document/10839404/). Wei Peng. TIFS 2025. [[code]](https://github.com/pengwei-iie/ASNET)
+- [MIETT: Multi-Instance Encrypted Traffic Transformer for Encrypted Traffic Classification](https://arxiv.org/pdf/2412.15306). Xu-Yang Chen. AAAI 2024. [[code]](https://github.com/SeciliaCxy/MIETT)
 - [NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba](http://arxiv.org/abs/2405.11449). Tongze Wang. ICNP 2024. [[code]](https://github.com/wangtz19/NetMamba)
 - [Ptu: Pre-Trained Model for Network Traffic Understanding](https://ieeexplore.ieee.org/document/10858503/). Lingfeng Peng. ICNP 2024. 
+- [Yet Another Traffic Classifier: A Masked Autoencoder Based Traffic Transformer with Multi-Level Flow Representation](https://ojs.aaai.org/index.php/AAAI/article/view/25674). Ruijie Zhao. AAAI 2023. [[code]](https://github.com/NSSL-SJTU/YaTC)
 - [ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification](https://dl.acm.org/doi/10.1145/3485447.3512217). Xinjie Lin. WWW 2022. [[code]](https://github.com/linwhitehat/ET-BERT)
 - [PERT: Payload Encoding Representation from Transformer for Encrypted Traffic Classification](https://ieeexplore.ieee.org/document/9303204/). Hongye He. ITU 2020. 
 
 ## GNN-based Classification
 
+- [Revolutionizing Encrypted Traffic Classification with MH-Net: A Multi-View Heterogeneous Graph Model](http://arxiv.org/abs/2501.03279). Haozhen Zhang. AAAI 2025.
 - [FlowMiner: A Powerful Model Based on Flow  Correlation Mining for Encrypted Traffic  Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11044724). Hongbo Xu. INFOCOM 2025. 
 - [TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Trafic Classification](https://dl.acm.org/doi/10.1145/3543507.3583227). Haozhen Zhang. WWW 2023. [[code]](https://github.com/ViktorAxelsen/TFE-GNN)
 
@@ -137,21 +149,35 @@ Yisroel Mirsky. NDSS 2018. [[code]](https://github.com/ymirsky/Kitsune-py)
 
 ## ML-based Classification(flow-based)
 
-- [FS-Net: A Flow Sequence Network For Encrypted  Traffic Classification](https://ieeexplore.ieee.org/document/8737507/). Chang liu. INFOCOM 2019. [[code]](https://github.com/WSPTTH/FS-Net)
 - [MT-FlowFormer: A Semi-Supervised Flow Transformer for Encrypted Traffic Classification](https://dl.acm.org/doi/10.1145/3534678.3539314). Ruijie Zhao. KDD 2022. 
+- [FlowLens: Enabling Efficient Flow Classification for  ML-based Network Security Applications](https://dx.doi.org/10.14722/ndss.2021.24067). Diogo Barradas. NDSS 2021. [[code]](https://github.com/dmbb/FlowLens)
+- [FS-Net: A Flow Sequence Network For Encrypted  Traffic Classification](https://ieeexplore.ieee.org/document/8737507/). Chang liu. INFOCOM 2019. [[code]](https://github.com/WSPTTH/FS-Net)
 
 ## Class Imbalance & Open-set
 
-- [TrafficGPT: An LLM Approach for Open-Set Encrypted Traffic Classification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5074974). Yasod Ginige. SSRN 2024.
+- [Trident: A Universal Framework for Fine-Grained and Class-Incremental Unknown Traffic Detection](https://dl.acm.org/doi/10.1145/3589334.3645407). Ziming Zhao. KDD 2024. [[code]](https://github.com/Secbrain/Trident/)
+- [TrafficGPT: An LLM Approach for Open-Set Encrypted Traffic Classification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5074974). Yasod Ginige. SSRN 2024. [[code]](https://github.com/YasodGinige/TrafficGPT)
+- [Incremental encrypted traffic classification via contrastive prototype networks](https://linkinghub.elsevier.com/retrieve/pii/S1389128624004237). Wei Cai. Computer Networks 2024. 
 - [Listen to minority: Encrypted traffic classification for class imbalance with contrastive pre-training](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10287449). Xiang Li. SECON 2023.
 
 ## Diverse Network Environment
 
+- [Training Robust Classifiers for Classifying Encrypted Traffic under Dynamic Network Conditions]() Yuqi Qing. CCS 2025. [[code]](https://github.com/XXnormal/MAML-Training-ETC)
 - [Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation](https://dl.acm.org/doi/10.1145/3603165.3607437). Renjie Xie. USENIX Security 2023. [[code]](https://github.com/sunskyXX/Rosetta.git)
 
 # In-Network Traffic Analysis
 
 - [SentinelX: A Lightweight Malicious Traffic  Detection System Based on Programmable Switches](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11044759). Zutao Zhang. INFOCOM 2025. 
+
+# Network Traffic Generation
+
+- [NetGPT: Generative Pretrained Transformer for  Network Traffic](http://arxiv.org/abs/2304.09513). Xuying Meng. Arxiv 2025.8. [[code]](https://github.com/ict-net/NetGPT)
+- [NetFlowGen: Leveraging Generative Pre-training for Network Traffic Dynamics](http://arxiv.org/abs/2412.20635). Jiawei Zhou. Arxiv 2024.12.
+
+# Website Fingerprinting 
+
+- [Swallow: A Transfer-Robust Website Fingerprinting Attack via Consistent Feature Learning](). Meng Shen. CCS 2025. [[code]](https://github.com/wujinhe0814/Swallow)
+
 
 
 <!--
