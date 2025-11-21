@@ -92,6 +92,9 @@ Yisroel Mirsky. NDSS 2018. [[code]](https://github.com/ymirsky/Kitsune-py)
 - [Wedjat: Detecting Sophisticated Evasion Attacks via Real-time Causal Analysis](https://doi.org/10.1145/3690624.3709218). Gao Li. KDD 2025. [[code]](https://github.com/cimeguy/Wedjat) [[video]](https://www.youtube.com/watch?v=Y3aEviafeaU)
 - [Relative Frequency-Rank Encoding for Unsupervised Network Anomaly Detection](https://dl.acm.org/doi/pdf/10.1109/TNET.2024.3391396). Minsong Kim. ToN 2024. [[code]](https://github.com/kmuinfosec/RFRE)
 - [NetVigil: Robust and Low-Cost Anomaly Detection for East-West Data Center Security](https://www.usenix.org/system/files/nsdi24-hsieh.pdf).  Kevin Hsieh. NDSI 2024. [[code]](https://github.com/microsoft/Yatesbury) [[video]](https://www.youtube.com/watch?v=gj_jpAWd-xY)
+
+## Traffic Concept Drift
+- [Continual Learning with Strategic Selection and Forgetting for Network Intrusion Detection](http://arxiv.org/abs/2412.16264). Xinchen Zhang. INFOCOM 2025. [[code]](https://github.com/xinchen930/SSF-StrategicSelection-and-Forgetting)
 <!--
 
 # Ethereum
